@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-25T15:52:17.395063"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "Feedback",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Open file",
+            "importance_rank": 2,
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "Note:",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Signatures",
+            "importance_rank": 4,
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "section_title": "Select",
+            "importance_rank": 5,
+            "page_number": 3
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "We provide a feedback mechanism directly within the AI Assistant to help us improve accuracy and other performance issues. This is an ongoing process, and we will continue to work together with our customers and community to harness the power of this new technology responsibly. Content usage and handling practices This FAQ addresses Adobe’s content usage and handling practices specific to...",
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "2. Right-click the attachment and select . 3. To view signatures on the PDF Portfolio, navigate to the cover sheet to view the document message bar and signatures pane. View signed and certified PDF Portfolios A properly signed or certified PDF Portfolio has one or more signatures that approve or certify the PDF Portfolio. The most significant signature appears in a Signature badge in the...",
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "The generative AI features in Acrobat and Acrobat Reader support English, French, German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, review Adobe's Generative AI User Guidelines. To understand Adobe's data handling practices, see Content usage and handling practices. The AI-powered features in Acrobat and Acrobat Reader support multiple document types,...",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "You can right-click a signature field in the panel to do most signature- related tasks, including adding, clearing, and validating signatures. In some cases, however, the signature field becomes locked after you sign it. Sign in preview mode for document integrity When document integrity is critical for your signature workflow, you can enable 'View documents in Preview mode', and then sign the...",
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "refined_text": ". The chat gets copied, and you can paste it at your desired location. Copy chat history from the AI assistant Read-aloud generated responses Quickly review the generated responses using the read-aloud feature in Acrobat AI Assistant. The read-aloud feature helps you play the AI Assistant generated response or a part of it in your chat. You can select any sentence and play it. You can also...",
+            "page_number": 3
+        }
+    ]
+}
